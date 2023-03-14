@@ -4,10 +4,12 @@
 
 Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br). 
 
+Acesse nosso projeto: [Calcular IMC](https://calculo-imc-pi.vercel.app/)
+
 ## Guia de Instalação:
 
 - `npm install`
 
 ### Para rodar
 
-- `npm start`
+- `npm run start`
